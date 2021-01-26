@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+header{
+    padding: 5px;
+    width:100%;
+    background-color: #1F2730;
+}
+header #h_table{
+    width:100%;
+}
+header .logo{
+    font-size: 50px;
+    color: aliceblue;
+    font-weight: bolder;
+    padding-left: 10%;
+}
+header #h_table .rana{
+    color: #ED563B;
+
+}
+header #h_table .manu table{
+    width: 100%;
+    text-align: right;
+    color: white;
+    padding-right: 10%;
+}
+
+/* slider area */
+.slider{
+    width:100%;
+    height: 600px;
+    background-image: url('image/slider.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+.slider h2{
+    margin: 0px;
+    padding-top: 210px;
+}
+.slider h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.slider h1 span{
+    color: #ED563B;
+}
+.slider button{
+    background-color: #ED563B;
+    border: #ED563B ;
+    padding: 5px 20px;
+    font-size: 20px;
+    color: white;
+}
+section .section_1{
+    text-align: center;
+    color: #232D39;
+
+}
+section .section_1 h2{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+
+}
+section .section_1 h2 span{
+    color: tomato;
+}
+section .section_1 hr{
+    width: 10%;
+    color: tomato;
+}
+section .section_1 p{
+    font-size: 20px;
+    color: #ACACAC;
+}
+section .section_2{
+    margin-top: 100px;
+    padding: 0px 10%;
+    text-align: center;
+}
+section .section_2 table tr td{
+    padding: 0px 5%;
+}
+section .section_2 table tr td p{
+    
+    text-align: justify;
+}
+
+footer{
+padding: 5px;
+width:100%;
+background-color: #1F2730;
+text-align: center;
+color: white;
+}
+footer span{
+    color: tomato;
+}
